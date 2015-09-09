@@ -41,7 +41,7 @@ Find Wildlife themes in list
 
 To get a better experience, combine it with the Wildlife theme. 
 
-> This gutter theme is not needed if you already have [Wildlife](https://packagecontrol.io/packages/Wildlife) color scheme **v1.0.1** and above as it already comes with it + configurations so you do not have to do any editing. It also has over 100 language syntax highlighting capabilities.
+> This gutter theme is not needed if you already have [Wildlife](https://packagecontrol.io/packages/Wildlife) color scheme **v2.0.0** and above as it already comes with it + configurations so you do not have to do any editing. It also has over 100 language syntax highlighting capabilities.
 
 ## Acknowledgements
 All glory belongs to God.
