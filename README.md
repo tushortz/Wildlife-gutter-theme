@@ -9,25 +9,31 @@ Comes with four different lints.
 * Fox --> error
 * cat --> warning
 
-![Animal gutter](preview/animal.png)
+![preview preview](preview/animal.png)
 
 #### Fruits
 * Apple --> error
 * Banana --> warning
 
-![Animal gutter](preview/fruit.png)
+![Fruits preview](preview/fruit.png)
+
+#### Gems
+* Ruby --> error
+* Sapphire --> warning
+
+![Fruits preview](preview/gems.png)
 
 #### Insects
 * Ladybird --> error
 * Bee --> warning
 
-![Animal gutter](preview/insect.png)
+![Insects preview](preview/insect.png)
 
 #### Planetary bodies
 * Sun --> error
 * Moon --> warning
 
-![Animal gutter](preview/solar.png)
+![Solar preview](preview/solar.png)
 
 
 ## Installation
