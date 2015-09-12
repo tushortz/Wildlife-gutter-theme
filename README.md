@@ -3,7 +3,7 @@
 This is a sublime linter theme that saves you the annoyance of the default Error/warning gutter theme.
 
 ### Features
-Comes with four different lints.
+Comes with five different lints.
 
 #### Animals
 * Fox --> error
