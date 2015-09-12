@@ -1,0 +1,5 @@
+
+1.1.0
+======
+* Added an extra gem image
+* resized images
